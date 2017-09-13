@@ -9,10 +9,11 @@ h1 {
 
 }
 .header {
-    background-color:yellow;
-    height: 60px;
-    line-height: 60px;
-    padding: 20px;
+    background-color:#76FF03;
+    height: 10px;
+    line-height: 20px;
+    padding: 70px;
+    padding-top: 30px;
     margin:0px:
     float: left;
 }
