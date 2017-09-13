@@ -1,0 +1,50 @@
+body {
+    
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    float: left;
+    
+
+}
+.header {
+    background-color:yellow;
+    height: 60px;
+    line-height: 60px;
+    padding: 20px;
+    margin:0px:
+    float: left;
+}
+.navigation {
+    float: right;
+}
+li {
+    float: right;
+    margin-left: 20px;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.content {
+
+    background-color: lightgray;
+    min-height: 500px;
+    width:700px;
+    margin-top: 0px;
+    float: left;
+
+
+}
+.sidebar {
+  
+    background-color: darkgray;
+    width: 30%;
+    min-height: 500px;
+    float: left;
+    
+}
+p {
+    margin: 20px;
+}
